@@ -1,4 +1,6 @@
 import { LightningElement } from 'lwc';
+
+/*IMPORTANDO O OBJETO E CAMPOS DO PROPRIO SCHEMA DA ORG, GARANTEM QUE SEMPRE VENHA AS INFORMAÇÕES SEMPRE CORRETINHAS */
 //importando o schema do objeto account de dentro da ORG
 import Account from '@salesforce/schema/Account';
 
